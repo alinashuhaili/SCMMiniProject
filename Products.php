@@ -73,7 +73,7 @@ $totalRows_Recordset2 = mysql_num_rows($Recordset2);
       <tr>
         <td bordercolor="#669933" bgcolor="#669933"><span class="style10">ItemName</span></td>
         <td bordercolor="#669933" bgcolor="#669933"><span class="style10">Description</span></td>
-        <td bordercolor="#669933" bgcolor="#669933"><span class="style10">Size</span></td>
+        <td bordercolor="#669911" bgcolor="#669933"><span class="style10">Size</span></td>
         <td bordercolor="#669933" bgcolor="#669933"><span class="style10">Image</span></td>
         <td bordercolor="#669933" bgcolor="#669933"><span class="style10">Price</span></td>
         <td bordercolor="#669933" bgcolor="#669933"><span class="style10">Discount</span></td>
